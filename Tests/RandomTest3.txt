@@ -1,0 +1,10 @@
+Grimsley
+23
+Meowth;Scut
+Psyduck;Vesta:Pelerina:Scut
+Bulbasaur;Sabiuta:Vitamine
+Lucian
+19
+Snorlax;
+Squirtle;Vitamine:Sabiuta:Pelerina
+Eevee;Vesta:Sabiuta

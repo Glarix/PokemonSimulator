@@ -1,0 +1,10 @@
+Selene
+19
+Psyduck;Vitamine:Vitamine
+Eevee;Vesta:Brad de craciun:Sabiuta
+Pikachu;Bagheta magica:Pelerina:Scut
+Misty
+19
+Bulbasaur;Vesta:Scut:Sabiuta
+Jigglypuff;Vitamine:Brad de craciun:Pelerina
+Vulpix;Bagheta magica:Vesta:Scut

@@ -1,0 +1,10 @@
+Iris
+16
+Psyduck;
+Eevee;
+Pikachu;
+Professor Oak
+41
+Bulbasaur;
+Jigglypuff;
+Vulpix;
