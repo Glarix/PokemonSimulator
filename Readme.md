@@ -4,7 +4,7 @@
 ---
 
 ## Description
-This project was build as an end of semester project. It simulates the battles between two pokemon coaches. Each coach has 3 unique pokemons that can battle between themselves.
+This project was built as an end of semester project. It simulates the battles between two pokemon coaches. Each coach has 3 unique pokemons that can battle between themselves.
 
 Program Features:
 
